@@ -88,7 +88,7 @@ superpower: Shipping production systems that sit at the intersection
 2024 ──────── Graduated IIT (BHU) | CGPA: 8.87 🎓
                 └── Chemical Engineer who codes. Deal with it.
 
-Jul 2024 ──── SDE 2 @ Sciforn Solutions (owned from Day 1)
+Jul 2024 ──── Principal Engineering @ Sciforn Solutions (owned from Day 1)
   present         └── End-to-end Loan Management Platform (Blazor + .NET)
                   └── Cashflow engines, IPD schedules, covenant monitoring
                   └── 60% performance boost | 35% fewer production incidents
