@@ -28,7 +28,7 @@
 
 ```yaml
 name: Sahil Saini
-role: SDE 2 @ Sciforn Solutions
+role: Principal Engineer @ Sciforn Solutions
 education: B.Tech Chemical Engineering, IIT (BHU) Varanasi | CGPA: 8.87
 location: Rajasthan, India 🇮🇳
 currently_building:
